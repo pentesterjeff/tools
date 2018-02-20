@@ -8,9 +8,7 @@ try:
 	name_arq = sys.argv[2]
 except:
 	print 'Incorrect Arguments'
-	print
 	print 'Usage: python brutedns.py <domain> <wordlist>'
-	print
 	sys.exit(1)
 try:
 	arq = open(name_arq)
