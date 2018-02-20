@@ -1,3 +1,5 @@
+#! /bin/bash
+
 import socket
 import sys
 import time
