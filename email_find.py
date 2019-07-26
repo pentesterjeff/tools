@@ -1,5 +1,3 @@
-#!/bin/python
-
 ################################################
 # Email Finder desenveloper for @Pentesterjeff #
 # https://github.com/pentesterjeff             #
